@@ -25,16 +25,16 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Ema bot",
+    "BOTNAME": "Roze Ai",
     "PREFIX": "/",
     "ADMINBOT": [
-        "حط ايديك هو"
+        "100085241593198"
     ],
-    "OWNER": "هنا تضع إسمك",
-    "OWNERID": "هنا تضع معرف حسابك",
-    "AGE": "هنا عمرك",
-    "GENDER": "هنا جنسك",
-    "FACEBOOK": "هنا رابط حسابك",
+    "OWNER": "Alwaleed",
+    "OWNERID": "100085241593198",
+    "AGE": "18",
+    "GENDER": "نص مغربي وا نصف مصري",
+    "FACEBOOK": "https://www.facebook.com/profile.php?id=100085241593198",
     "autoAccept:": "true",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "01:00",
