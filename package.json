@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \Error: no test specified\ && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -14,7 +14,6 @@
     "@miraipr0ject/assets": "",
     "axios": "^0.21.1",
     "bing-translate-api": "^3.0.0",
-    "canvas": "^2.8.0",
     "chalk": "^4.1.2",
     "cheerio": "",
     "chem-eb": "^0.1.11",
